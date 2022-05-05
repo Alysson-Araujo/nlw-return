@@ -22,12 +22,17 @@ A proposta neste projeto é por todos os nossos estudos em prática, além de po
 <br>
 
 ### Frameworks FrontEnd
+
 * [<font color=#9d5dfe >ViteJs</font>](https://vitejs.dev/)
+
 * [<font color=#38bdf8 >tailwindcss</font>](https://tailwindcss.com/)
+
 * [<font color=#ffd171 >Phosphor Icons</font>](https://phosphoricons.com/)
+
 * [<font color=#6f6cf9 >headlessui - A PROJECT BY Tailwind Labs </font>](https://headlessui.dev/)
 
 <br>
 
 ## Links importantes
+
 * [<font color=#f24e1e >Projeto no Figma com as Interfaces</font>](https://www.figma.com/file/KZUuV8Ghic8DU7oWKY9Tlp/Feedback-Widget-(Community)?node-id=113%3A2828)
