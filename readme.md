@@ -19,6 +19,7 @@ A proposta neste projeto é por todos os nossos estudos em prática, além de po
 * [<font color=#90c53f >NodeJs</font>](https://nodejs.org/en/)
 * [<font color=#ffffff >NextJs</font>](https://nextjs.org/)
 
+
 <br>
 
 ### Frameworks FrontEnd
