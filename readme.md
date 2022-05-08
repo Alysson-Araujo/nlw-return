@@ -36,11 +36,8 @@ A proposta neste projeto é por todos os nossos estudos em prática, além de po
 ### Frameworks/bibliotecas usadas no FrontEnd
 
 * [<font color=#9d5dfe >ViteJs</font>](https://vitejs.dev/)
-
 * [<font color=#38bdf8 >tailwindcss</font>](https://tailwindcss.com/)
-
 * [<font color=#ffd171 >Phosphor Icons</font>](https://phosphoricons.com/)
-
 * [<font color=#6f6cf9 >headlessui - A PROJECT BY Tailwind Labs </font>](https://headlessui.dev/)
 
 <br>
@@ -55,7 +52,7 @@ A proposta neste projeto é por todos os nossos estudos em prática, além de po
 * [@railway/cli](https://docs.railway.app/)
 * [yarn](https://yarnpkg.com/)
 * [npm](https://www.npmjs.com/)
-* * [<font color=#90c53f >NodeJs</font>](https://nodejs.org/en/)
+* [<font color=#90c53f >NodeJs</font>](https://nodejs.org/en/)
 
 
 <br>
