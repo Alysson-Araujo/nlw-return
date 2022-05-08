@@ -29,7 +29,6 @@ A proposta neste projeto é por todos os nossos estudos em prática, além de po
 * [<font color=#00d8ff >React</font>](https://pt-br.reactjs.org/)
 * [<font color=#3178c6 >TypeScript</font>](https://www.typescriptlang.org/)
 * [<font color=#90c53f >NodeJs</font>](https://nodejs.org/en/)
-* [<font color=#ffffff >NextJs</font>](https://nextjs.org/)
 
 
 <br>
