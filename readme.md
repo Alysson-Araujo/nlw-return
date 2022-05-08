@@ -136,7 +136,8 @@ Pronto! o front está ativo. Agora vamos para o Backend
 
 ### Backend
 
-Primeiramente faça o clone do projeto da seguinte forma:
+
+Caso você já tenha feito o clone do projeto, não vai ser mais necessário fazer aqui. Caso não, primeiramente faça o clone do projeto da seguinte forma:
 
 ````git
 git clone https://github.com/Alysson-Araujo/nlw-return-impulse
